@@ -21,7 +21,7 @@
 
 ## 📦 설치
 ```bash
-git clone https://github.com/YOUR_ID/BTC_wallet_App.git
+git clone https://github.com/LWJ0909/BTC_wallet_App.git
 cd BTC_wallet_App
 
 python -m venv .venv
@@ -55,3 +55,6 @@ XPUB 모드: zpub/ypub/xpub 또는 Descriptor 입력 → 파생주소 스캔 후
 
 ## 📜 라이선스
 MIT License
+
+## 주의
+현재 프로토 타입임을 알림 매우 조잡함
